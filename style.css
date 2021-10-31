@@ -1,0 +1,46 @@
+nav{
+    background-color: skyblue;
+}
+
+nav .nav-link{
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+nav .nav-link:hover{
+    text-transform: uppercase;
+    font-weight: bold;
+    background-color: greenyellow;
+}
+
+.container h1{
+    text-align: center;
+    text-transform: capitalize;
+    padding: 100px 0;
+}
+
+.container .row2{
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+.container-fluid{
+    background-color: whitesmoke;
+}
+
+.conx .col2{
+    padding-top: 30px;
+    padding-bottom: 70px;
+}
+
+.row4{
+    padding-top: 20px;
+}
+
+footer{
+background-color: #212529;
+}
+
+.conz{
+    padding-bottom: 50px;
+}
